@@ -1,6 +1,11 @@
 Changelog
 ---------
 
+Release 5.0.9
+"""""""""""""
+
+* fix CVE-2023-26112 (thanks to cdcadman)
+
 Release 5.0.8
 """""""""""""
 

@@ -38,7 +38,8 @@ NAME = 'configobj'
 MODULES = []
 PACKAGES = ['configobj', 'validate']
 DESCRIPTION = 'Config file reading, writing and validation.'
-URL = 'https://github.com/DiffSK/configobj'
+URL = 'https://github.com/metwork-framework/configobj'
+#URL = 'https://github.com/DiffSK/configobj'
 
 REQUIRES = """
     six

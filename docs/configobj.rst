@@ -2383,11 +2383,15 @@ CHANGELOG
 This is an abbreviated changelog showing the major releases up to version 4.
 From version 4 it lists all releases and changes.
 
+2023/09/13 - Version 5.0.9
+--------------------------
+
+* fix CVE-2023-26112 (thanks to cdcadman)
+
 2023/01/18 - Version 5.0.8
 --------------------------
 
 * fixing/test for a regression introduced in 5.0.7 that prevented ``import validate`` from working
-
 
 2023/01/17 - Version 5.0.7
 --------------------------

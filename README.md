@@ -1,4 +1,6 @@
 # configobj
+This repository is a fork from https://github.com/cdcadman/configobj which is itsef a fork from https://github.com/DiffSK/configobj. It includes a fix from https://github.com/cdcadman to address CVE-2023-26112 ReDoS (cdcadman's PR https://github.com/DiffSK/configobj/pull/236 is not taken into account since 2023 May 17). This repository should be removed when the PR will be approved and released on pypi.
+
 [![Coverage Status](https://img.shields.io/coveralls/DiffSK/configobj.svg)](https://coveralls.io/r/DiffSK/configobj?branch=master)
 [![PyPI version](http://img.shields.io/pypi/v/configobj.svg)](https://pypi.python.org/pypi/configobj)
 [![License](https://img.shields.io/badge/license-BSD_3--clause-red.svg)](https://github.com/DiffSK/configobj/blob/master/LICENSE)
